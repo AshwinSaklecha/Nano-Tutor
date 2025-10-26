@@ -1,0 +1,21 @@
+.popup {
+  width: 200px;
+  height: 100px;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.test-button {
+  width: 100%;
+  padding: 10px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+.test-button:hover {
+  background-color: #45a049;
+}
